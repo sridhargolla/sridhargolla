@@ -129,7 +129,7 @@ Seeking opportunities where I can apply strong foundations in **Data Structures 
 
 ---
 
-## 💼 Online Job Management System
+## 💼 Online Job Management System ( HIREHUB )
 
 **Tech Stack:** Django • MySQL
 
@@ -138,12 +138,12 @@ Seeking opportunities where I can apply strong foundations in **Data Structures 
 
 ---
 
-## ✈️ Airline Booking Website
+## ✈️ Travel/Trip Booking Website ( TRIPNEST)
 
 **Tech Stack:** Django • HTML • CSS • JavaScript • MySQL
 
-- Built a full-stack airline booking application.
-- Implemented flight search, booking, and secure backend data management.
+- Built a full-stack travelling booking application.
+- Implemented Trip, Destination ,flight search, booking, and secure backend data management.
 
 ---
 
